@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1620320987 source:c:\users\user\desktop\vuk programiranje\domaci drugo polugodiste\projekat\dinstring.cpp
+	"dinstring.hpp"
+
+1620320983 c:\users\user\desktop\vuk programiranje\domaci drugo polugodiste\projekat\dinstring.hpp
+	<iostream>
+
